@@ -7,7 +7,7 @@ A VR game built in Unity about collecting magical Crystal essences to create a u
 **Current Build for Oculus Quest 2 PCVR:**
 https://drive.google.com/drive/folders/1qM3lqn2pGcM2yTFeedyoZ0PRPTofn_qk?usp=share_link
 
-Short Trailer:
+Short Trailer(please watch with sound):
 
 https://user-images.githubusercontent.com/3580918/202920894-9e2b73f1-3f82-482a-941a-4c1f59e941f4.mp4
 
