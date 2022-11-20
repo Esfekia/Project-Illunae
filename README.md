@@ -18,23 +18,36 @@ The notion documentation has representative images, videos, long and short descr
 
 **Instructions for Playing the Game:**
 -The player will be greeted with a window asking if they want to play the tutorial. Reach out and touch the tick symbol on the left to start the tutorial. 
+
 -Follow and listen carefully to Vera, who will guide you verbally on the tutorial steps. 
+
 -For the first interactions, the points of reference are highlighted with a yellow glowy orb, when needed.
--There are 3 portals that can be used, which require the player to hold a staff. 
+
+-There are 3 portals that can be used, which require the player to hold a staff.
+
 -The river biome has 3, the space biome has 3 and the cavern biome has 2 crystal nodes that can be “sung” for crystal essences (voices).
+
 -There is a holster mechanic for storing the staff, but is a little buggy in other scenes in terms of positioning.
+
 -Currently the perimeter of the lobby and the sides of the space biome away from the asteroids are not covered fully with colliders, so players may fall from the world if they venture into such areas. There is currently no way to exit, other than ctr-alt-del killing of the application.
 
 
 **Known Bugs:**
 
 -Occasional falling through world, especially during scene loading.
+
 -Space scene does not have invisible barriers on sides.
+
 -Vera (tutorial) animation & position issues.
+
 -Crystal staff appearing back on table after returning to lobby.
+
 -Crystal singing and synth sounds stopping abruptly without fade.
+
 -Lighting related glitches in lobby, caused by fireflies.
+
 -Crystal staff shader issues when singing.
+
 -Holsters can be above or below intended height.
 
 
