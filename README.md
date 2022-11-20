@@ -1,4 +1,7 @@
 # Project-Illunae
+
+![Illunae_Trailer_old](https://user-images.githubusercontent.com/3580918/202921111-7ca71f15-33b2-4dd4-8090-9ae34405ee8c.png)
+
 A VR game built in Unity about collecting magical Crystal essences to create a unique mix of sounds to meditate with.
 
 **Current Build for Oculus Quest 2 PCVR:**
